@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitin-rawat&label=Profile%20views&color=0e75b6&style=flat" alt="nitin-rawat" /> </p>
 
-- 🌱 I’m currently learning **React, Backend ,System Design**
+- 🌱 I’m currently learning **React, Backend ,DSA **
 
 - 👨‍💻 All of my projects are available at [https://nitin-rawat.github.io/Portfolio/](https://nitin-rawat.github.io/Portfolio/)
 
