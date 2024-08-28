@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, Backend ,DSA**
 
-- 👨‍💻 All of my projects are available at [https://nitin-rawat.github.io/Portfolio/](https://nitin-rawat.github.io/Nitin-Portfolio/)
+- 👨‍💻 All of my projects are available at [https://nitin-rawat.github.io/Nitin-Portfolio/](https://nitin-rawat.github.io/Nitin-Portfolio/)
 
 - 📫 How to reach me **rawatnitin182@gmail.com**
 
