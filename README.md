@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitin-rawat&label=Profile%20views&color=0e75b6&style=flat" alt="nitin-rawat" /> </p>
 
-- 🌱 I’m currently learning **React, Backend ,DSA**
+- 🌱 I’m currently learning **React, Backend ,Animation **
 
 - 👨‍💻 All of my projects are available at [https://nitin-rawat.github.io/Nitin-Portfolio/](https://nitin-rawat.github.io/Nitin-Portfolio/)
 
-- 📫 How to reach me **rawatnitin182@gmail.com**
+- 📫 How to reach me **docock0@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1FKeJZ843qy9couomkqF7LlL0D8cL80pw/view?usp=sharing](https://drive.google.com/file/d/1FKeJZ843qy9couomkqF7LlL0D8cL80pw/view?usp=sharing)
 
