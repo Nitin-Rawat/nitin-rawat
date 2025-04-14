@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitin-rawat&label=Profile%20views&color=0e75b6&style=flat" alt="nitin-rawat" /> </p>
 
-- 🌱 I’m currently learning **React, Backend ,Animation **
+- 🌱 I’m currently learning **NextJs, Backend ,Animation **
 
 - 👨‍💻 All of my projects are available at [https://nitin-rawat.github.io/Nitin-Portfolio/](https://nitin-rawat.github.io/Nitin-Portfolio/)
 
