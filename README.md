@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **NextJs, Backend ,Animation **
 
-- 👨‍💻 All of my projects are available at [https://nitin-rawat.github.io/Nitin-Portfolio/](https://nitin-rawat.github.io/Nitin-Portfolio/)
+- 👨‍💻 All of my projects are available at [Nitin-Portfolio/](https://nitin-rawat.github.io/Nitin-Portfolio/)
 
 - 📫 How to reach me **docock0@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1FKeJZ843qy9couomkqF7LlL0D8cL80pw/view?usp=sharing](https://drive.google.com/file/d/1FKeJZ843qy9couomkqF7LlL0D8cL80pw/view?usp=sharing)
+- 📄 Know about my experiences [Resume.](https://drive.google.com/file/d/1WOFEuvnrtRe064qIy3EcvZ_RqVl_d0Jr/view?usp=drivesdk )
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
