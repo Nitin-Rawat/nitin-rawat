@@ -7,10 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [Nitin-Portfolio/](https://nitin-rawat.github.io/Nitin-Portfolio/)
 
-- 📫 How to reach me **docock0@gmail.com**
-
-- 📄 Know about my experiences [Resume.](https://drive.google.com/file/d/1WOFEuvnrtRe064qIy3EcvZ_RqVl_d0Jr/view?usp=drivesdk )
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nitin-rawat035/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nitin-rawat035/" height="30" width="40" /></a>
