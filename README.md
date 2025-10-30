@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **NextJs, Backend ,Animation **
 
-- 👨‍💻 All of my projects are available at [Nitin-Portfolio/](https://nitin-rawat.github.io/Nitin-Portfolio/)
+- 👨‍💻 All of my projects are available at [Nitin-Portfolio/](https://nitin-rawat.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
